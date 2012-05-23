@@ -1,0 +1,17 @@
+This is a compiler project done by NITK Surathkal Students for all CSE engineering students.
+This project is issued in general interest in hope it will guide students to learn and effectively they will learn and develop it more and add more features.
+
+
+Features Implemented :
+
+1. Syntax Phase : Almost all common keywords but no preprocessing headers, etc
+
+2. Semantic phase :
+	a. type mismatch of int, char,float,double
+	b. undeclared identifier
+	c. multiple declaration
+
+3. Intermediate Code Generation: expressions and for-loop.
+
+Regards
+Harsh Mathur

@@ -1,0 +1,11 @@
+To run the project
+1. You should have flex and yacc installed in your linux/windows.
+2. Remove all license statements.
+3. run by typing following commands
+	a. yacc -d cparser.yacc
+	b. flex clexer.lex
+	c. gcc lex.yy.c y.tab.c -ll
+	d. ./a.out <input file name> example ./a.out input.c
+4. You can see parse tree in a file parsetree.
+5. The errors and intermediate code will be shown in terminal.
+6. And If you upload the project on some other site after modifying or adding new features, mention the credits, as mentioned in the license.

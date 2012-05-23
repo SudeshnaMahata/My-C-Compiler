@@ -1,0 +1,7 @@
+Syntax error at Pos : 5 : 8
+Syntax error at Pos : 5 : 16
+Syntax error at Pos : 6 : 8
+ VOID=1  CHAR=2  INT=3  FLOAT=4  DOUBLE=4 
+
+There is a Semantic error at Pos : 6 : 10 : j is already defined as 3
+

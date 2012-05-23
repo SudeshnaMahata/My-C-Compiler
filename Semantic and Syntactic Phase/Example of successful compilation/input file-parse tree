@@ -1,0 +1,1626 @@
+
+
+
+
+
+
+
+
+INT TYPE SPECIFIER	
+
+
+DECLARATION SPECIFIERS	
+
+
+
+
+
+
+DIRECT DECLARATOR	
+
+
+DIRECT DECLARATOR	
+
+
+DECLARATOR	
+
+
+
+
+
+
+
+
+
+
+
+INT TYPE SPECIFIER	
+
+
+DECLARATION SPECIFIERS	
+
+
+
+
+
+
+
+
+DIRECT DECLARATOR	
+
+
+DIRECT DECLARATOR	
+
+
+DECLARATOR	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2	
+
+
+external Declaration	
+
+
+INITIALIZER LIST	
+
+
+
+
+
+3	
+
+
+external Declaration	
+
+INITIALIZER LIST	
+
+
+
+
+
+5	
+
+
+external Declaration	
+
+INITIALIZER LIST	
+
+
+
+
+
+7	
+
+
+external Declaration	
+
+INITIALIZER LIST	
+
+
+
+
+
+11	
+
+
+external Declaration	
+
+INITIALIZER LIST	
+
+
+
+
+
+13	
+
+
+external Declaration	
+
+INITIALIZER LIST	
+
+
+
+
+
+17	
+
+
+external Declaration	
+
+INITIALIZER LIST	
+
+
+
+
+
+19	
+
+
+external Declaration	
+
+INITIALIZER LIST	
+
+
+
+
+
+23	
+
+
+external Declaration	
+
+INITIALIZER LIST	
+
+
+
+
+
+29	
+
+
+external Declaration	
+
+INITIALIZER LIST	
+
+
+
+
+
+31	
+
+
+external Declaration	
+
+INITIALIZER LIST	
+
+
+
+
+
+37	
+
+
+external Declaration	
+
+INITIALIZER LIST	
+
+
+
+
+
+41	
+
+
+external Declaration	
+
+INITIALIZER LIST	
+
+
+
+
+
+43	
+
+
+external Declaration	
+
+INITIALIZER LIST	
+
+
+
+
+
+47	
+
+
+external Declaration	
+
+INITIALIZER LIST	
+
+
+
+
+
+53	
+
+
+external Declaration	
+
+INITIALIZER LIST	
+
+
+
+
+
+59	
+
+
+external Declaration	
+
+INITIALIZER LIST	
+
+
+
+
+
+61	
+
+
+external Declaration	
+
+INITIALIZER LIST	
+
+
+
+
+
+67	
+
+
+external Declaration	
+
+INITIALIZER LIST	
+
+
+
+
+
+71	
+
+
+external Declaration	
+
+INITIALIZER LIST	
+
+
+
+
+
+73	
+
+
+external Declaration	
+
+INITIALIZER LIST	
+
+
+
+
+
+79	
+
+
+external Declaration	
+
+INITIALIZER LIST	
+
+
+
+
+
+83	
+
+
+external Declaration	
+
+INITIALIZER LIST	
+
+
+
+
+
+89	
+
+
+external Declaration	
+
+INITIALIZER LIST	
+
+
+
+
+
+97	
+
+
+external Declaration	
+
+INITIALIZER LIST	
+
+
+
+
+
+101	
+
+
+external Declaration	
+
+INITIALIZER LIST	
+
+
+
+
+
+103	
+
+
+external Declaration	
+
+INITIALIZER LIST	
+
+
+
+
+
+107	
+
+
+external Declaration	
+
+INITIALIZER LIST	
+
+
+
+
+
+109	
+
+
+external Declaration	
+
+INITIALIZER LIST	
+
+
+
+
+
+113	
+
+
+external Declaration	
+
+INITIALIZER LIST	
+
+
+
+
+
+127	
+
+
+external Declaration	
+
+INITIALIZER LIST	
+
+
+
+
+
+131	
+
+
+external Declaration	
+
+INITIALIZER LIST	
+
+
+
+
+
+137	
+
+
+external Declaration	
+
+INITIALIZER LIST	
+
+
+
+
+
+139	
+
+
+external Declaration	
+
+INITIALIZER LIST	
+
+
+
+
+
+149	
+
+
+external Declaration	
+
+INITIALIZER LIST	
+
+
+
+
+
+151	
+
+
+external Declaration	
+
+INITIALIZER LIST	
+
+
+
+
+
+157	
+
+
+external Declaration	
+
+INITIALIZER LIST	
+
+
+INITIALIZER	
+
+INIT DECLARATOR	
+
+
+INIT DECLARATOR LIST	
+
+DECLARATION	
+
+
+DECLARATION LIST	
+
+
+
+
+
+
+LONG TYPE SPECIFIER	
+
+
+
+
+
+LONG TYPE SPECIFIER	
+
+
+
+
+
+INT TYPE SPECIFIER	
+
+
+DECLARATION SPECIFIERS	
+
+DECLARATION SPECIFIERS	
+
+DECLARATION SPECIFIERS	
+
+
+
+
+
+
+
+
+
+
+
+DIRECT DECLARATOR	
+
+
+DECLARATOR	
+
+
+INIT DECLARATOR	
+
+
+INIT DECLARATOR LIST	
+
+
+
+
+
+
+DIRECT DECLARATOR	
+
+
+DECLARATOR	
+
+
+INIT DECLARATOR	
+
+INIT DECLARATOR LIST	
+
+
+
+
+
+
+DIRECT DECLARATOR	
+
+
+DECLARATOR	
+
+
+INIT DECLARATOR	
+
+INIT DECLARATOR LIST	
+
+
+
+
+
+
+DIRECT DECLARATOR	
+
+
+DECLARATOR	
+
+
+
+
+
+0	
+
+
+external Declaration	
+
+INIT DECLARATOR	
+
+INIT DECLARATOR LIST	
+
+
+
+
+
+
+DIRECT DECLARATOR	
+
+
+DECLARATOR	
+
+
+INIT DECLARATOR	
+
+INIT DECLARATOR LIST	
+
+DECLARATION	
+
+DECLARATION LIST	
+
+
+
+
+
+
+INT TYPE SPECIFIER	
+
+
+DECLARATION SPECIFIERS	
+
+
+
+
+
+
+
+
+
+
+
+DIRECT DECLARATOR	
+
+
+DECLARATOR	
+
+
+
+
+
+0	
+
+
+external Declaration	
+
+INIT DECLARATOR	
+
+
+INIT DECLARATOR LIST	
+
+
+
+
+
+
+DIRECT DECLARATOR	
+
+
+DECLARATOR	
+
+
+
+
+
+0	
+
+
+external Declaration	
+
+INIT DECLARATOR	
+
+INIT DECLARATOR LIST	
+
+
+
+
+
+
+DIRECT DECLARATOR	
+
+
+DECLARATOR	
+
+
+INIT DECLARATOR	
+
+INIT DECLARATOR LIST	
+
+
+
+
+
+
+DIRECT DECLARATOR	
+
+
+DECLARATOR	
+
+
+INIT DECLARATOR	
+
+INIT DECLARATOR LIST	
+
+
+
+
+
+
+DIRECT DECLARATOR	
+
+
+DECLARATOR	
+
+
+INIT DECLARATOR	
+
+INIT DECLARATOR LIST	
+
+DECLARATION	
+
+DECLARATION LIST	
+
+
+
+
+
+
+INT TYPE SPECIFIER	
+
+
+DECLARATION SPECIFIERS	
+
+
+
+
+
+
+
+
+DIRECT DECLARATOR	
+
+
+
+
+
+
+100	
+
+
+external Declaration	
+
+
+CONSTANT Expression	
+
+DIRECT DECLARATOR	
+
+
+DECLARATOR	
+
+
+INIT DECLARATOR	
+
+
+INIT DECLARATOR LIST	
+
+DECLARATION	
+
+DECLARATION LIST	
+
+
+
+
+
+
+
+
+
+
+
+
+100	
+
+
+
+
+ASSIGNMENT Operator	
+
+
+
+
+
+0	
+
+
+external Declaration	
+ASSIGNMENT Expression	
+
+
+EXPRESSION STATEMENT	
+
+
+
+
+
+
+
+0	
+
+
+
+
+37	
+
+< RELATIONAL Expression	
+
+
+external Declaration	
+
+
+EXPRESSION STATEMENT	
+
+
+
+
+
+
+37	
+
+
+POSTFIX Expression	
+
+
+external Declaration	
+
+
+
+
+
+
+
+
+
+
+
+37	
+
+
+
+
+ASSIGNMENT Operator	
+
+
+
+
+
+
+37	
+
+
+
+
+
+37	
+
+
+external Declaration	
+
+POSTFIX Expression	
+
+
+external Declaration	
+ASSIGNMENT Expression	
+
+
+EXPRESSION STATEMENT	
+
+
+EXPRESSION STATEMENT	
+
+
+STATEMENT LIST	
+
+
+
+
+
+
+
+
+37	
+
+
+
+
+
+37	
+
+
+external Declaration	
+
+POSTFIX Expression	
+
+
+
+
+ASSIGNMENT Operator	
+
+
+
+
+
+1	
+
+
+external Declaration	
+ASSIGNMENT Expression	
+
+
+EXPRESSION STATEMENT	
+
+
+EXPRESSION STATEMENT	
+
+STATEMENT LIST	
+
+
+COMPOUND STATEMENT	
+
+
+COMPOUND STATEMENT	FOR ITRATION STATEMENT	
+
+
+ITERATION STATEMENT	
+
+
+STATEMENT LIST	
+
+
+
+
+
+
+
+1	
+
+
+
+
+ASSIGNMENT Operator	
+
+
+
+
+
+100	
+
+
+external Declaration	
+ASSIGNMENT Expression	
+
+
+EXPRESSION STATEMENT	
+
+
+EXPRESSION STATEMENT	
+
+STATEMENT LIST	
+
+
+
+
+
+
+
+
+100	
+
+
+
+
+0	
+
+> RELATIONAL Expression	
+
+
+external Declaration	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0	
+
+
+
+
+ASSIGNMENT Operator	
+
+
+
+
+
+0	
+
+
+external Declaration	
+ASSIGNMENT Expression	
+
+
+EXPRESSION STATEMENT	
+
+
+EXPRESSION STATEMENT	
+
+
+STATEMENT LIST	
+
+
+
+
+
+
+
+0	
+
+
+
+
+ASSIGNMENT Operator	
+
+
+
+
+
+20	
+
+
+external Declaration	
+ASSIGNMENT Expression	
+
+
+EXPRESSION STATEMENT	
+
+
+EXPRESSION STATEMENT	
+
+STATEMENT LIST	
+
+
+
+
+
+
+
+20	
+
+
+
+
+ASSIGNMENT Operator	
+
+
+
+
+
+40	
+
+
+external Declaration	
+ASSIGNMENT Expression	
+
+
+EXPRESSION STATEMENT	
+
+
+EXPRESSION STATEMENT	
+
+STATEMENT LIST	
+
+
+
+
+
+
+
+
+40	
+
+
+
+
+ASSIGNMENT Operator	
+
+
+
+
+
+40	
+
+
+external Declaration	
+ASSIGNMENT Expression	
+
+
+EXPRESSION STATEMENT	
+
+
+
+
+
+
+
+40	
+
+
+
+
+40	
+
+LE_OP RELATIONAL Expression	
+
+
+external Declaration	
+
+
+EXPRESSION STATEMENT	
+
+
+
+
+
+
+40	
+
+
+POSTFIX Expression	
+
+
+external Declaration	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+40	
+
+
+
+
+ASSIGNMENT Operator	
+
+
+
+
+
+40	
+
+
+external Declaration	
+ASSIGNMENT Expression	
+
+
+EXPRESSION STATEMENT	
+
+
+EXPRESSION STATEMENT	
+
+
+STATEMENT LIST	
+
+
+
+
+
+
+
+40	
+
+
+
+
+ASSIGNMENT Operator	
+
+
+
+
+
+0	
+
+
+external Declaration	
+ASSIGNMENT Expression	
+
+
+EXPRESSION STATEMENT	
+
+
+EXPRESSION STATEMENT	
+
+STATEMENT LIST	
+
+
+
+
+
+
+
+0	
+
+
+
+
+ASSIGNMENT Operator	
+
+
+
+
+
+0	
+
+
+external Declaration	
+ASSIGNMENT Expression	
+
+
+EXPRESSION STATEMENT	
+
+
+EXPRESSION STATEMENT	
+
+STATEMENT LIST	
+
+
+
+
+
+
+
+
+0	
+
+
+
+
+0	
+
+> RELATIONAL Expression	
+
+
+external Declaration	
+
+
+
+
+
+
+
+
+
+
+
+
+
+0	
+
+
+
+
+ASSIGNMENT Operator	
+
+
+
+
+
+
+0	
+
+
+
+
+10	
+
+% MULTIPLICATIVE Expression	
+
+
+external Declaration	
+ASSIGNMENT Expression	
+
+
+EXPRESSION STATEMENT	
+
+
+EXPRESSION STATEMENT	
+
+
+STATEMENT LIST	
+
+
+
+
+
+
+
+10	
+
+
+
+
+ADD ASSIGNMENT Operator	
+
+
+
+
+
+10	
+
+
+external Declaration	
+ASSIGNMENT Expression	
+
+
+EXPRESSION STATEMENT	
+
+
+EXPRESSION STATEMENT	
+
+STATEMENT LIST	
+
+
+
+
+
+
+
+10	
+
+
+
+
+ADD ASSIGNMENT Operator	
+
+
+
+
+
+
+
+10	
+
+
+
+
+10	
+
+* MULTIPLICATIVE Expression	
+
+
+external Declaration	
+
+
+external Declaration	
+ASSIGNMENT Expression	
+
+
+EXPRESSION STATEMENT	
+
+
+EXPRESSION STATEMENT	
+
+STATEMENT LIST	
+
+
+
+
+
+
+
+10	
+
+
+
+
+ASSIGNMENT Operator	
+
+
+
+
+
+
+10	
+
+
+
+
+10	
+
+/ MULTIPLICATIVE Expression	
+
+
+external Declaration	
+ASSIGNMENT Expression	
+
+
+EXPRESSION STATEMENT	
+
+
+EXPRESSION STATEMENT	
+
+STATEMENT LIST	
+
+
+COMPOUND STATEMENT	
+
+
+COMPOUND STATEMENT	
+
+WHILE ITERATION STATEMENT	
+
+
+ITERATION STATEMENT	
+
+STATEMENT LIST	
+
+
+
+
+
+
+
+
+
+
+10	
+
+
+
+
+
+10	
+
+
+external Declaration	
+
+POSTFIX Expression	
+
+
+
+
+1	
+
+EQ_OP EQUALITY Exprssion	
+
+
+external Declaration	
+
+
+
+
+
+
+
+1	
+
+
+
+
+
+1	
+
+
+external Declaration	
+
+POSTFIX Expression	
+
+
+
+
+1	
+
+EQ_OP EQUALITY Exprssion	
+
+
+external Declaration	
+
+LOGICAL AND Expression	
+
+
+
+
+
+
+
+
+1	
+
+
+POSTFIX Expression	
+
+
+external Declaration	
+
+
+EXPRESSION STATEMENT	
+
+
+EXPRESSION STATEMENT	
+
+IF SELECTION STATEMENT	
+
+
+SELECTION STATEMENT	
+
+STATEMENT LIST	
+
+
+COMPOUND STATEMENT	
+
+
+COMPOUND STATEMENT	FOR ITRATION STATEMENT	
+
+
+ITERATION STATEMENT	
+
+STATEMENT LIST	
+
+
+
+
+
+
+
+
+1	
+
+
+POSTFIX Expression	
+
+
+external Declaration	
+
+
+EXPRESSION STATEMENT	
+
+
+EXPRESSION STATEMENT	
+
+STATEMENT LIST	
+
+
+COMPOUND STATEMENT	
+
+
+COMPOUND STATEMENT	
+
+WHILE ITERATION STATEMENT	
+
+
+ITERATION STATEMENT	
+
+STATEMENT LIST	
+
+
+
+
+
+
+
+0	
+
+
+external Declaration	
+
+
+RETURN Jump Statement	
+
+
+JUMP STATEMENT	
+
+STATEMENT LIST	
+
+COMPOUND STATEMENT	
+FUNCTION DEFINITION	
+
+
+External Declaration	

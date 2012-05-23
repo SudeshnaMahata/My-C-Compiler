@@ -1,0 +1,310 @@
+
+
+
+
+
+
+
+
+INT TYPE SPECIFIER	
+
+
+DECLARATION SPECIFIERS	
+
+
+
+
+
+
+DIRECT DECLARATOR	
+
+
+DIRECT DECLARATOR	
+
+
+DECLARATOR	
+
+
+
+
+
+
+
+
+INT TYPE SPECIFIER	
+
+
+DECLARATION SPECIFIERS	
+
+
+
+
+
+
+
+
+
+DIRECT DECLARATOR	
+
+
+DECLARATOR	
+
+
+INIT DECLARATOR	
+
+
+INIT DECLARATOR LIST	
+
+
+
+
+
+
+DIRECT DECLARATOR	
+
+
+DECLARATOR	
+
+
+INIT DECLARATOR	
+
+INIT DECLARATOR LIST	
+
+
+
+
+
+
+DIRECT DECLARATOR	
+
+
+DECLARATOR	
+
+
+INIT DECLARATOR	
+
+INIT DECLARATOR LIST	
+
+DECLARATION	
+
+
+DECLARATION LIST	
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+ASSIGNMENT Operator	
+
+
+
+
+
+3	
+
+
+external Declaration	
+ASSIGNMENT Expression	
+
+
+EXPRESSION STATEMENT	
+
+
+EXPRESSION STATEMENT	
+
+
+STATEMENT LIST	
+
+
+
+
+
+
+
+3	
+
+
+
+
+ASSIGNMENT Operator	
+
+
+
+
+
+4	
+
+
+external Declaration	
+ASSIGNMENT Expression	
+
+
+EXPRESSION STATEMENT	
+
+
+EXPRESSION STATEMENT	
+
+STATEMENT LIST	
+
+
+
+
+
+
+
+4	
+
+
+
+
+ASSIGNMENT Operator	
+
+
+
+
+
+
+4	
+
+
+
+
+5	
+
++ ADDITIVE Expression	
+
+
+external Declaration	
+ASSIGNMENT Expression	
+
+
+EXPRESSION STATEMENT	
+
+
+EXPRESSION STATEMENT	
+
+STATEMENT LIST	
+
+
+
+
+
+
+
+
+5	
+
+
+
+
+ASSIGNMENT Operator	
+
+
+
+
+
+0	
+
+
+external Declaration	
+ASSIGNMENT Expression	
+
+
+EXPRESSION STATEMENT	
+
+
+
+
+
+
+
+0	
+
+
+
+
+5	
+
+LE_OP RELATIONAL Expression	
+
+
+external Declaration	
+
+
+EXPRESSION STATEMENT	
+
+
+
+
+
+
+5	
+
+
+POSTFIX Expression	
+
+
+external Declaration	
+
+
+
+
+
+
+
+
+
+
+5	
+
+
+
+
+ASSIGNMENT Operator	
+
+
+
+
+
+5	
+
+
+external Declaration	
+ASSIGNMENT Expression	
+
+
+EXPRESSION STATEMENT	
+
+
+EXPRESSION STATEMENT	
+
+
+STATEMENT LIST	
+
+
+COMPOUND STATEMENT	
+
+
+COMPOUND STATEMENT	FOR ITRATION STATEMENT	
+
+
+ITERATION STATEMENT	
+
+STATEMENT LIST	
+
+COMPOUND STATEMENT	
+FUNCTION DEFINITION	
+
+
+External Declaration	
